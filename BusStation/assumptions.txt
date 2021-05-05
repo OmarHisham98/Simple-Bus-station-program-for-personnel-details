@@ -1,0 +1,5 @@
+1-All inputs lower case
+2-assume the customer can't reserve more than one trip but can reserve multiple tickets for the same trip
+3-one trip/driver
+4-assume the manager enter the trips in the given order for example if we are adding a new trip and there is already two trips the trip number must be 3
+5-Given paths are the absolute paths
